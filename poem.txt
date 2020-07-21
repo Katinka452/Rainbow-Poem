@@ -8,4 +8,5 @@ Purple
 Yellow
 Red
 Pink
+Black
 These are the colors of the rainbow.
