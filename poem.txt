@@ -1,10 +1,11 @@
 The rainbow 
 
-Purple 
+Green 
 Pink 
 Blue
 Red 
-Green
+Purple
 Yellow
+Red
 Pink
 These are the colors of the rainbow.
